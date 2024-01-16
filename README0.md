@@ -1,7 +1,7 @@
 # BIGDATA LAB - Quarta edizione - DeepLearning  16-01-2024 by Daniele Grotti
 
 1. (16/01/2024)DG 3 ore: Introduzione Generale AI -part1 [IntroML](pdf/xxxx.pdf)
-2. (17/01/2024)DG 3 ore: Introduzione Generale AI -part2 [IntroML](pdf/xxxx.pdf)
+2. (17/01/2024)DG 3 ore: Introduzione DL ed LLM -part2 [IntroML](pdf/xxxx.pdf)
 
 
 
