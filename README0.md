@@ -5,7 +5,7 @@
 3. (22/01/2024)DG 3 ore: [Disillusioni AI](pdf/03.0_DisillusioniAI.pdf) - [Generative AI](pdf/03.1_Genertive.pdf) Intro Colab & Python 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/02_intro.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/03.1_Classi_easy.ipynb)
-
+4. (23/01/2024)DG 3 ore: Ripasso + Intro ANN
 
 - extra: Linear ALgebra [Linear Algebra ML](pdf/LinearAlgebraML.pdf)
 - extra: [Matrici](pdf/Richiami_algebra_delle_matrici.pdf) [Math](pdf/Mathematical_DL.pdf)
