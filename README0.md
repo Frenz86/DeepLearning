@@ -9,8 +9,7 @@
 
 
 - extra: Linear ALgebra [Linear Algebra ML](pdf/LinearAlgebraML.pdf)
-- extra: Matrix [Matrici](pdf/Richiami_algebra_delle_matrici.pdf)
-- extra: Matrix [Math](pdf/Mathematical_DL.pdf)
+- extra: [Matrici](pdf/Richiami_algebra_delle_matrici.pdf) [Math](pdf/Mathematical_DL.pdf)
 
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
