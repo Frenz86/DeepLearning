@@ -2,19 +2,16 @@
 
 1. (16/01/2024)DG 3 ore: Introduzione Generale AI -part1 [IntroML](pdf/AI_D&G.pdf)
 2. (17/01/2024)DG 3 ore: Introduzione DL -part2 [IntroML](pdf/AI_D&G.pdf)
+
 3. (22/01/2024)DG 3 ore: [Disillusioni AI](pdf/03.0_DisillusioniAI.pdf) - [Generative AI](pdf/03.1_Genertive.pdf) Intro Colab & Python 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less03/02_intro.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less03/03.1_Classi_easy.ipynb)
-4. (24/01/2024)DG 3 ore: Ripasso [TrainTestSplit](pdf/03.3_Training_test_split.pdf) [Overfitting](pdf/03.4_Overfitting.pdf)  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/03.2_Ripasso_diabetic.ipynb)
-Intro ANN [Intro ANN](pdf/03.04.0_Derivate.pdf)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.0_Normalizzazione_standardizz.ipynb)
-Intro Keras
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.1_Keras_regression_Basics.ipynb)
+
+4. (24/01/2024)DG 3 ore: Ripasso [TrainTestSplit](pdf/03.3_Training_test_split.pdf) [Overfitting](pdf/03.4_Overfitting.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/03.2_Ripasso_diabetic.ipynb)
+Intro ANN [Intro ANN](pdf/03.04.0_Derivate.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.0_Normalizzazione_standardizz.ipynb)
+Intro Keras [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.1_Keras_regression_Basics.ipynb)
 
 5. (25/01/2024)DG 3 ore: Keras Regression + Classification 
-
-
 
 
 - extra: Linear ALgebra [Linear Algebra ML](pdf/LinearAlgebraML.pdf)
