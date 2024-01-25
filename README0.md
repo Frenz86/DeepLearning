@@ -14,7 +14,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 - extra: Linear ALgebra [Linear Algebra ML](pdf/LinearAlgebraML.pdf)
-- extra: [Matrici](pdf/Richiami_algebra_delle_matrici.pdf) [Math](pdf/Mathematical_DL.pdf)
+- extra: [Matrici](pdf/Richiami_algebra_delle_matrici.pdf) [Math](pdf/Mathematical_DL.pdf) [Cheat Sheet](pdf/cheat_sheet.pdf)
 - extra: PINN (Physics-Informed Neural Networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/PINN/PINN_physicNN.ipynb)
 - extra: Synthetic Data Generator [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/00SDV_Quickstart.ipynb)
 - extra: Fooocus (Generative AI Image Solution) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/fooocus_colab.ipynb)
