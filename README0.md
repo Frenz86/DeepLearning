@@ -1,6 +1,7 @@
 # BIGDATA LAB - Quarta edizione - DeepLearning  16-01-2024 by Daniele Grotti
 
 1. (16/01/2024)DG 3 ore: Introduzione Generale AI -part1 [IntroML](pdf/AI_D&G.pdf)
+
 2. (17/01/2024)DG 3 ore: Introduzione DL -part2 [IntroML](pdf/AI_D&G.pdf)
 
 3. (22/01/2024)DG 3 ore: [Disillusioni AI](pdf/03.0_DisillusioniAI.pdf) - [Generative AI](pdf/03.1_Genertive.pdf) Intro Colab & Python 
@@ -18,6 +19,8 @@ Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-b
 Keras save and Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.3_Keras_save_load.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.4_Keras_EarlyStopping.ipynb)
 
 6. (29/01/2024)DG 3 ore: xxxxxxxxxxxx
+
+7. (01/02/2024)DG 3 ore: xxxxxxxxxxxx
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
