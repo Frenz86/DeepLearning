@@ -9,7 +9,15 @@
 
 4. (24/01/2024)DG 3 ore: Ripasso [TrainTestSplit](pdf/03.3_Training_test_split.pdf) [Overfitting](pdf/03.4_Overfitting.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/03.2_Ripasso_diabetic.ipynb) [Intro ANN](pdf/04.0_Derivate.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.0_Normalizzazione_standardizz.ipynb) Intro Keras [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.1_Keras_regression_Basics.ipynb)
 
-5. (25/01/2024)DG 3 ore: Keras Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.5_IRIS2solve.ipynb)
+5. (25/01/2024)DG 3 ore: [TheoryNN](pdf/05.0__ExplainNN.pdf)
+Boston Housing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/04.2_Boston_Keras.ipynb)
+Giavellotto [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/04.3_Giavellotto_gittata.ipynb)
+Non Linear [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.0_DL_Basics.ipynb)
+IntroANN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.1_Intro_ANN.ipynb)
+Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.1_Intro_ANN.ipynb)
+Keras save and Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.3_Keras_save_load.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.4_Keras_Early Stopping.ipynb)
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
