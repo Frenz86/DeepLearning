@@ -28,7 +28,7 @@ Keras save and Early Stopping [![Open In Colab](https://colab.research.google.co
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.4_MNIST.ipynb)
 
 
-7. (31/02/2024)DG 3 ore: xxxxxxxxxxxx
+7. (31/02/2024)DG 3 ore: xxxxxxxxxxxxxx
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
