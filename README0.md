@@ -19,10 +19,16 @@ Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-b
 Keras save and Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.3_Keras_save_load.ipynb) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.4_Keras_EarlyStopping.ipynb)
 
-6. (29/01/2024)DG 3 ore: IRIS to solve [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/05.5_IRIS2solve.ipynb)
+6. (29/01/2024)DG 3 ore: IRIS solved [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/05.6_IRIS.ipynb)
+[NeuralNet-Concept](pdf/06.0ResumeP1.pdf) [Intro-CNN](pdf/06.1_CNN_XO.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.0_CNN_Basics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.1_RegularizationL2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.2_Early_Stopping.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.3_Keras_par_tun.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.4_MNIST.ipynb)
 
 
-7. (01/02/2024)DG 3 ore: xxxxxxxxxxxx
+7. (31/02/2024)DG 3 ore: xxxxxxxxxxxx
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -35,4 +41,4 @@ Keras save and Early Stopping [![Open In Colab](https://colab.research.google.co
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
