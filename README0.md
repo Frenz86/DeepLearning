@@ -27,8 +27,10 @@ Keras save and Early Stopping [![Open In Colab](https://colab.research.google.co
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.3_Keras_par_tun.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.4_MNIST.ipynb)
 
+7. (31/02/2024)DG 3 ore: [Regulariation](pdf/07ResumeP2.pdf) Fashion MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.0_Fashion_MNIST.ipynb) CIFAR10 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.1_CIFAR10_BatchNorm.ipynb) Multilabel [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.2_MultilabelFinale.ipynb) KerasVisualizer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.3_Visualizing_Keras.ipynb) DOGvsCAT1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.5_Dog_Cat_subset_part1.ipynb) DOGvsCAT2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.6_Dog_Cat_subset_part2.ipynb)
 
-7. (31/02/2024)DG 3 ore: xxxxxxxxxxxxxx
+8. (31/02/2024)DG 3 ore:xxxxxxxxxxxx
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
