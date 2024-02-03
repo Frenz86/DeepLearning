@@ -46,6 +46,7 @@ Keras save and Early Stopping [![Open In Colab](https://colab.research.google.co
 - extra: PINN (Physics-Informed Neural Networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/PINN/PINN_physicNN.ipynb)
 - extra: DrawData [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/DrawData.ipynb)
 - extra: Synthetic Data Generator [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/00SDV_Quickstart.ipynb)
+- extra: MonteCarlo Simulation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/distribuzioniMonteCarlo2.ipynb)
 - extra: Fooocus (Generative AI Image Solution) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/fooocus_colab.ipynb)
 
 
