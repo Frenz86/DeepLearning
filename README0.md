@@ -34,9 +34,14 @@ Keras save and Early Stopping [![Open In Colab](https://colab.research.google.co
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.3_TL_Tomatoes.ipynb) GradCAM 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.6_Grad-CAM.ipynb)
 
-9. (06/02/2024)DG 3 ore:xxxxxxxxxxxx
+9. (06/02/2024)DG 3 ore:[Generative ](pdf/09.1_Genertive.pdf) [AutoEncoders ](pdf/09.0_AutoEncoders.pdf) GradCAM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/80.6_Grad-CAM.ipynb) 
+AutoEncoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.1AUT_autoencoder.ipynb) 
+VariationalAutoEnc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.2VAE_fashion.ipynb) 
+AutoEncoder Anomaly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.3AUT_anomaly.ipynb) 
+DCGAN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.4DCGAN_fashion.ipynb) 
+U-NET [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.5U-NET_pet_segmentation.ipynb) 
 
-
+10. (13/02/2024)DG 3 ore:
 
 
 
