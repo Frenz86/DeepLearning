@@ -34,7 +34,7 @@ Keras save and Early Stopping [![Open In Colab](https://colab.research.google.co
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.3_TL_Tomatoes.ipynb) GradCAM 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.6_Grad-CAM.ipynb)
 
-9. (06/02/2024)DG 3 ore:[Generative ](pdf/09.1_Genertive.pdf)   [AutoEncoders ](pdf/09.0_AutoEncoders.pdf) GradCAM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/80.6_Grad-CAM.ipynb) 
+9. (06/02/2024)DG 3 ore:[Generative ](pdf/09.1_Genertive.pdf)   [AutoEncoders ](pdf/09.0_AutoEncoders.pdf) 
 AutoEncoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.1AUT_autoencoder.ipynb) 
 VariationalAutoEnc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.2VAE_fashion.ipynb) 
 AutoEncoder Anomaly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.3AUT_anomaly.ipynb) 
@@ -45,6 +45,12 @@ U-NET [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg
 Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.1_SpaCy.ipynb) 
 Tokeniztion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.2_Tokenization.ipynb) 
 
+11. (15/02/2024)DG 3 ore: 
+Word Cloud NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/10.5_WordCloud.ipynb) 
+[[Embeddings Visualization]](https://projector.tensorflow.org/)
+Word2Vec Gensim [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.1_Word2vec_Gensim.ipynb) 
+RNN & LSTM Keras [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.4_RNN_LSTM_Keras.ipynb) 
+Text Generation LSTM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
