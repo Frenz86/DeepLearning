@@ -46,8 +46,7 @@ Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 Tokeniztion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.2_Tokenization.ipynb) 
 
 11. (15/02/2024)DG 3 ore: 
-Word Cloud NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/10.5_WordCloud.ipynb) 
-[[Embeddings Visualization]](https://projector.tensorflow.org/) [Embeddings -RNN](pdf/11.1NLPPART2.pdf) [RNN-LSTM](pdf/11.2RNN_LSTM2.pdf)
+Word Cloud NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/10.5_WordCloud.ipynb)  - [Embeddings Visualization](https://projector.tensorflow.org/) - [Embeddings -RNN](pdf/11.1NLPPART2.pdf) - [RNN-LSTM](pdf/11.2RNN_LSTM2.pdf)
 Word2Vec Gensim [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.1_Word2vec_Gensim.ipynb) 
 RNN & LSTM Keras [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.4_RNN_LSTM_Keras.ipynb) 
 Text Generation LSTM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
