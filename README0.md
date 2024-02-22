@@ -51,7 +51,7 @@ Word2Vec Gensim [![Open In Colab](https://colab.research.google.com/assets/colab
 RNN & LSTM Keras [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.4_RNN_LSTM_Keras.ipynb) 
 Text Generation LSTM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
 
-12. (21/02/2024)DG 3 ore: [Intro Transformers ](pdf/12.0_TRANSFORMERS.pdf) [BERT](pdf/12.1_BERT.pdf)
+12. (21/02/2024)DG 3 ore: [Intro Transformers ](pdf/12.0_TRANSFORMERS.pdf) - [BERT](pdf/12.1_BERT.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less12/12.1EmotionPrediction_HuggingFace.ipynb)
 13. (28/02/2024)DG 3 ore: 
 
