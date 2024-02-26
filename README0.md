@@ -56,6 +56,7 @@ Text Generation LSTM [![Open In Colab](https://colab.research.google.com/assets/
 13. (28/02/2024)DG 3 ore: 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+- [Graph 3D online](https://www.desmos.com/3d/6d977245c9)
 - extra: ArxivSearch API [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/ArxivSearch.ipynb)
 - extra: Linear ALgebra [Linear Algebra ML](pdf/LinearAlgebraML.pdf)
 - extra: [Matrici](pdf/Richiami_algebra_delle_matrici.pdf) [Math](pdf/Mathematical_DL.pdf) [Cheat Sheet](pdf/cheat_sheet.pdf)
