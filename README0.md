@@ -62,6 +62,7 @@ Multicalssification Bert [![Open In Colab](https://colab.research.google.com/ass
 Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisDistilBERT_HuggingFace.ipynb)
 App Gedio Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisGradio.ipynb)
 
+13. (13/03/2024)DG 3 ore: Forecasting
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 - [Graph 3D online](https://www.desmos.com/3d/6d977245c9)
