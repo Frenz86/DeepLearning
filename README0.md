@@ -53,7 +53,15 @@ Text Generation LSTM [![Open In Colab](https://colab.research.google.com/assets/
 
 12. (21/02/2024)DG 3 ore: [Intro Transformers ](pdf/12.0_TRANSFORMERS.pdf) - [BERT](pdf/12.1_BERT.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less12/12.1EmotionPrediction_HuggingFace.ipynb)
-13. (28/02/2024)DG 3 ore: 
+
+13. (28/02/2024)DG 3 ore: [LLM](pdf/13.0_LLM.pdf) - [Multimodality - Emerging Abilities](pdf/13.1_Multimodal_emergingAbilities.pdf)
+NER Huggingface [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.2NER_Training_HuggingFace.ipynb)
+Text generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.3TextGeneration_HuggingFace.ipynb)
+Summarization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.4Summarization_HuggingFace.ipynb)
+Multicalssification Bert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.5FineTuningDistilBERT_MultiLabel_HuggingFace.ipynb)
+Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisDistilBERT_HuggingFace.ipynb)
+App Gedio Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisGradio.ipynb)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 - [Graph 3D online](https://www.desmos.com/3d/6d977245c9)
