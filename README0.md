@@ -63,11 +63,12 @@ Multicalssification Bert [![Open In Colab](https://colab.research.google.com/ass
 Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisDistilBERT_HuggingFace.ipynb)
 App Gradio Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisGradio.ipynb)
 
-13. (13/03/2024)DG 3 ore: Forecasting
+14. (13/03/2024)DG 3 ore: Forecasting
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-- [Graph 3D online](https://www.desmos.com/3d/6d977245c9)
+- extra: [Graph 3D online](https://www.desmos.com/3d/6d977245c9)
+- extra: [Cheat Sheet ML](pdf/CheatSheetsML.pdf)
 - extra: ArxivSearch API [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/ArxivSearch.ipynb)
 - extra: Linear ALgebra [Linear Algebra ML](pdf/LinearAlgebraML.pdf)
 - extra: [Matrici](pdf/Richiami_algebra_delle_matrici.pdf) [Math](pdf/Mathematical_DL.pdf) [Cheat Sheet](pdf/cheat_sheet.pdf)
