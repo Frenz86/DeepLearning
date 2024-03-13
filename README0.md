@@ -63,7 +63,10 @@ Multicalssification Bert [![Open In Colab](https://colab.research.google.com/ass
 Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisDistilBERT_HuggingFace.ipynb)
 App Gradio Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisGradio.ipynb)
 
-14. (13/03/2024)DG 3 ore: Forecasting
+14. (13/03/2024)DG 3 ore: Datetime [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less14/14.0_Datetime.ipynb) Intro Forecasting
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less14/14.1_IntroductionForecast.ipynb) Prophet library
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less14/14.2_Intro_Prophet.ipynb)
+LSTM + Ateention on TS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less14/14.3_LSTM_AttentionPredictions.ipynb)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
