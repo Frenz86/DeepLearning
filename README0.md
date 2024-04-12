@@ -19,13 +19,18 @@ Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-b
 Keras save and Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.3_Keras_save_load.ipynb) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.4_Keras_EarlyStopping.ipynb)
 
-6. (29/01/2024)DG 3 ore: IRIS solved [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/05.6_IRIS.ipynb)
-[NeuralNet-Concept](pdf/06.0ResumeP1.pdf) [Intro-CNN](pdf/06.1_CNN_XO.pdf)
+6. (2024/01/29)DG 3 ore: IRIS solved [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/05.6_IRIS.ipynb)
+[NeuralNet-Concept](pdf/06.0ResumeP1.pdf) [Intro-CNN](pdf/06.1_CNN_XO.pdf) Convolution stack Keras
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.0_CNN_Basics.ipynb)
+Regularization 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.1_RegularizationL2.ipynb)
+Early Stopping
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.2_Early_Stopping.ipynb)
+Keras Fine TUn.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.3_Keras_par_tun.ipynb)
+Intro Mnist ML vs DL 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.4_MNIST.ipynb)
+
 
 7. (31/01/2024)DG 3 ore: [Regulariation](pdf/07ResumeP2.pdf) Fashion MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.0_Fashion_MNIST.ipynb) CIFAR10 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.1_CIFAR10_BatchNorm.ipynb) Multilabel [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.2_MultilabelFinale.ipynb) KerasVisualizer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.3_Visualizing_Keras.ipynb) DOGvsCAT1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.5_Dog_Cat_subset_part1.ipynb) DOGvsCAT2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.6_Dog_Cat_subset_part2.ipynb)
 
