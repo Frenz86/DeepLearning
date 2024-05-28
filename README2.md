@@ -12,3 +12,13 @@ IntroANN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.
 Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.2_Breast_Cancer.ipynb)
 Keras save and Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.3_Keras_save_load.ipynb) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.4_Keras_EarlyStopping.ipynb)
+
+6. (2024/05/21)DG 3 ore: IRIS solved [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/05.6_IRIS.ipynb)
+[NeuralNet-Concept](pdf/06.0ResumeP1.pdf) [Intro-CNN](pdf/06.1_CNN_XO.pdf) Convolution stack Keras
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.0_CNN_Basics.ipynb)
+Regularization 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.1_RegularizationL2.ipynb)
+Early Stopping
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.2_Early_Stopping.ipynb)
+Keras Fine TUn.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.3_Keras_par_tun.ipynb)
