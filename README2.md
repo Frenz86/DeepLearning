@@ -25,3 +25,15 @@ Keras Fine TUn.
 
 
 7. (2024/05/28)DG 3 ore: [Regulariation](pdf/07ResumeP2.pdf) Fashion MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.0_Fashion_MNIST.ipynb) CIFAR10 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.1_CIFAR10_BatchNorm.ipynb) Multilabel [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.2_MultilabelFinale.ipynb) KerasVisualizer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.3_Visualizing_Keras.ipynb)
+
+8. (2024/06/03)DG 3 ore: [Overview CNN](pdf/08.0OverviewCNN.pdf) Transfer Learning Flowers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.1_TL_Flowers.ipynb) Transfer Learning + Fine Tuning DOGvsCAT
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.2_TL_DogCat_Transfer_Learning_and_Fine_Tunning.ipynb) Transfer Learning Tomatoes Desease
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.3_TL_Tomatoes.ipynb) GradCAM 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.6_Grad-CAM.ipynb)
+
+9. (2024/06/05)DG 3 ore: [Generative ](pdf/09.1_Genertive.pdf) - [AutoEncoders ](pdf/09.0_AutoEncoders.pdf) 
+AutoEncoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.1AUT_autoencoder.ipynb) 
+VariationalAutoEnc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.2VAE_fashion.ipynb) 
+AutoEncoder Anomaly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.3AUT_anomaly.ipynb) 
+DCGAN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.4DCGAN_fashion.ipynb) 
+U-NET [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.5U-NET_pet_segmentation.ipynb)
