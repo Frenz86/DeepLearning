@@ -61,6 +61,11 @@ Multicalssification Bert [![Open In Colab](https://colab.research.google.com/ass
 Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisDistilBERT_HuggingFace.ipynb)
 App Gradio Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisGradio.ipynb)
 
+14. (2024/06/28)DG 3 ore: Albert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.7_Albert.ipynb)
+AlbertOnnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.8_Albert2onnx.ipynb)
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 - extra: [Graph 3D online](https://www.desmos.com/3d/6d977245c9)
 - extra: [Cheat Sheet ML](pdf/CheatSheetsML.pdf)
