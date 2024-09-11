@@ -13,6 +13,14 @@ Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-b
 Keras save and Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.3_Keras_save_load.ipynb) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.4_Keras_EarlyStopping.ipynb)
 
+
+7. (2024/09/11)DG 3 oreDG 3 ore: IRIS solved [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/05.6_IRIS.ipynb)
+[NeuralNet-Concept](pdf/06.0ResumeP1.pdf) [Intro-CNN](pdf/06.1_CNN_XO.pdf) Convolution stack Keras
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.0_CNN_Basics.ipynb)
+Regularization 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.1_RegularizationL2.ipynb)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: [Tutorial Tensorflow per l'estate](https://www.tensorflow.org/tutorials/keras/regression)
