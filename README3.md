@@ -23,8 +23,11 @@ Regularization
 8. (2024/09/12)DG 3 ore: [Regulariation](pdf/07ResumeP2.pdf) [CNN](pdf/cnn.pdf) Fashion MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.0_Fashion_MNIST.ipynb) CIFAR10 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.1_CIFAR10_BatchNorm.ipynb) Multilabel [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.2_MultilabelFinale.ipynb) KerasVisualizer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.3_Visualizing_Keras.ipynb)
 
 
- 9. (2024/09/12)DG 3 ore: DOGvsCAT1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.5_Dog_Cat_subset_part1.ipynb) DOGvsCAT2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.6_Dog_Cat_subset_part2.ipynb)
+9. (2024/09/12)DG 3 ore: DOGvsCAT1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.5_Dog_Cat_subset_part1.ipynb) DOGvsCAT2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.6_Dog_Cat_subset_part2.ipynb)
 
+
+10. (2024/09/17)DG 3 ore:[File inference - teachable machine](https://frenzy86.s3.eu-west-2.amazonaws.com/python/run_tkinteapp.zip)
+[Overview CNN](pdf/08.0OverviewCNN.pdf) Transfer Learning Flowers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.1_TL_Flowers.ipynb)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
