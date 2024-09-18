@@ -29,6 +29,11 @@ Regularization
 10. (2024/09/17)DG 3 ore:[File inference - teachable machine](https://frenzy86.s3.eu-west-2.amazonaws.com/python/run_tkinteapp.zip)
 [Overview CNN](pdf/08.0OverviewCNN.pdf) Transfer Learning Flowers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.1_TL_Flowers.ipynb)
 
+11. (2024/09/18)DG 3 ore: Transfer Learning + Fine Tuning DOGvsCAT
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.2_TL_DogCat_Transfer_Learning_and_Fine_Tunning.ipynb) Transfer Learning Tomatoes Desease
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.3_TL_Tomatoes.ipynb) GradCAM 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.6_Grad-CAM.ipynb)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: [Tutorial Tensorflow per l'estate](https://www.tensorflow.org/tutorials/keras/regression)
