@@ -54,8 +54,16 @@ LSTM Text Generation [![Open In Colab](https://colab.research.google.com/assets/
 16. (2024/09/28)DG 3 ore: [Intro Transformers ](pdf/12.0_TRANSFORMERS.pdf) - [BERT](pdf/12.1_BERT.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less12/12.1EmotionPrediction_HuggingFace.ipynb)
 
+17. (2024/09/30)DG 3 ore: Safetensor-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.1HugginfaceTFM_onnx.ipynb)
+Summarization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.4Summarization_HuggingFace.ipynb)
+MultilabelDistilbert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.5FineTuningDistilBERT_MultiLabel_HuggingFace.ipynb)
+SentimentDistilbert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisDistilBERT_HuggingFace.ipynb)
+SentimentDistilbert-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisGradio.ipynb)
+Albert-Datasets_push_hughub [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.7_Albert.ipynb)
+Albert-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.8_Albert2onnx.ipynb)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: [Tutorial Tensorflow per l'estate](https://www.tensorflow.org/tutorials/keras/regression)
 - extra: [Cheat Sheet ML](pdf/CheatSheetsML.pdf)
