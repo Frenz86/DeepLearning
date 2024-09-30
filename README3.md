@@ -49,6 +49,13 @@ WorldCloud [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 Gensim [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.1_Word2vec_Gensim.ipynb) 
 
 
+15. (2024/09/27)DG 3 ore:RNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.4_RNN_LSTM_Keras.ipynb) 
+LSTM Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
+
+
+16. (2024/09/28)DG 3 ore: [Intro Transformers ](pdf/12.0_TRANSFORMERS.pdf) - [BERT](pdf/12.1_BERT.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less12/12.1EmotionPrediction_HuggingFace.ipynb)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
