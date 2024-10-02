@@ -62,7 +62,7 @@ SentimentDistilbert-Onnx [![Open In Colab](https://colab.research.google.com/ass
 Albert-Datasets_push_hughub [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.7_Albert.ipynb)
 Albert-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.8_Albert2onnx.ipynb)
 
-17. (2024/10/02)DG 3 ore: LLM
+18. (2024/10/02)DG 3 ore: LLM
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
