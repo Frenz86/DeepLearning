@@ -4,6 +4,13 @@
 2. (2024/11/19)DG 3.5 ore: Introduction to DL [IntroML2](pdf/AI_D&G.pdf) - [Github](pdf/01Github.pdf) - virtualwrapper [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/virtualenv_virtualwrapper.ipynb) 
 3. (2024/11/20)DG 3.5 ore: [Disillusioni AI](pdf/03.0_DisillusioniAI.pdf) - [Generative AI](pdf/03.1_Genertive.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less03/03.1_Classi_easy.ipynb)
 
+4. (2024/11/25)DG 4 ore:: Ripasso [TrainTestSplit](pdf/03.3_Training_test_split.pdf) [Overfitting](pdf/03.4_Overfitting.pdf) Diabetic Sklearn [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/03.2_Ripasso_diabetic.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.0_Normalizzazione_standardizz.ipynb) 
+Intro Keras [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.1_Keras_regression_Basics.ipynb)  
+Giavellotto [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/04.3_Giavellotto_gittata.ipynb) 
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
