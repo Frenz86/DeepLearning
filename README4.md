@@ -12,6 +12,10 @@ Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-b
 Keras Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.4_Keras_EarlyStopping.ipynb)
 IRIS to solve [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.6_IRIS2solve.ipynb)
 
+
+6. (2024/11/27)DG 3.5 ore: IRIS solved [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/05.6_IRIS.ipynb)
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: [Cheat Sheet ML](pdf/CheatSheetsML.pdf)
