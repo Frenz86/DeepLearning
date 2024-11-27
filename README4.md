@@ -9,7 +9,8 @@
 5. (2024/11/26)DG 3.5 ore: Boston [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/04.2_Boston_Keras.ipynb) [TheoryNN](pdf/05.0__ExplainNN.pdf) Non Linear [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.0_DL_Basics.ipynb)
 IntroANN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.1_Intro_ANN.ipynb)
 Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.2_Breast_Cancer.ipynb)
-Keras save and Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.3_Keras_save_load.ipynb) 
+Keras Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.4_Keras_EarlyStopping.ipynb)
+IRIS to solve [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/05.6_IRIS2solve.ipynb)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
