@@ -15,6 +15,9 @@ IRIS to solve [![Open In Colab](https://colab.research.google.com/assets/colab-b
 
 6. (2024/11/27)DG 3.5 ore: IRIS solved [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.6_IRIS.ipynb)
 
+7. (2024/12/02)DG 3.5 ore: [NeuralNet-Concept](pdf/06.0ResumeP1.pdf) [Intro-CNN](pdf/06.1_CNN_XO.pdf) Convolution stack Keras
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.0_CNN_Basics.ipynb) - Regularization  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.1_RegularizationL2.ipynb)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
