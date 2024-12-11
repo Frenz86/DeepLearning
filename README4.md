@@ -31,6 +31,10 @@ AutoEncoder [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 VariationalAutoEnc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.2VAE_fashion.ipynb) 
 AutoEncoder Anomaly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.3AUT_anomaly.ipynb) 
 DCGAN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.4DCGAN_fashion.ipynb) 
+
+11. (2024/12/11)DG 3 ore: [Intro NLP ](pdf/10.1_NLP_PART1.pdf) Intro REGEX [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.0_Intro_re.ipynb) 
+Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.1_SpaCy.ipynb) 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: [Cheat Sheet ML](pdf/CheatSheetsML.pdf)
