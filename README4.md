@@ -35,6 +35,10 @@ DCGAN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 11. (2024/12/11)DG 3 ore: [Intro NLP ](pdf/10.1_NLP_PART1.pdf) Intro REGEX [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.0_Intro_re.ipynb) 
 Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.1_SpaCy.ipynb) 
 
+12. (2024/12/12)DG 3 ore: Tokeniztion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.2_Tokenization.ipynb) 
+WorldCloud [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/10.5_WordCloud.ipynb) 
+Gensim [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.1_Word2vec_Gensim.ipynb) 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: [Cheat Sheet ML](pdf/CheatSheetsML.pdf)
