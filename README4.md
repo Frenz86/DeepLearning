@@ -39,6 +39,13 @@ Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 WorldCloud [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/10.5_WordCloud.ipynb) 
 Gensim [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.1_Word2vec_Gensim.ipynb) 
 
+
+15. (2024/09/27)DG 3 ore: [Embeddings ](pdf/11.1NLPPART2.pdf) - [from RNN to LSTM ](pdf/11.2RNN_LSTM2.pdf)  
+RNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.4_RNN_LSTM_Keras.ipynb) 
+LSTM Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.3_RNN_Imdb_review_classifier.ipynb) 
+LSTM Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
+Twitter disaster classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.6_NLP_twitter_class.ipynb) 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: [Cheat Sheet ML](pdf/CheatSheetsML.pdf)
