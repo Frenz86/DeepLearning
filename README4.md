@@ -12,7 +12,6 @@ Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-b
 Keras Early Stopping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.4_Keras_EarlyStopping.ipynb)
 IRIS to solve [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.6_IRIS2solve.ipynb)
 
-
 6. (2024/11/27)DG 3.5 ore: IRIS solved [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.6_IRIS.ipynb)
 
 7. (2024/12/02)DG 3.5 ore: [NeuralNet-Concept](pdf/06.0ResumeP1.pdf) [Intro-CNN](pdf/06.1_CNN_XO.pdf) Convolution stack Keras
@@ -39,8 +38,7 @@ Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 WorldCloud [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/10.5_WordCloud.ipynb) 
 Gensim [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.1_Word2vec_Gensim.ipynb) 
 
-
-15. (2024/09/27)DG 3 ore: [Embeddings ](pdf/11.1NLPPART2.pdf) - [from RNN to LSTM ](pdf/11.2RNN_LSTM2.pdf)  
+13. (2024/12/16)DG 3 ore: [Embeddings ](pdf/11.1NLPPART2.pdf) - [from RNN to LSTM ](pdf/11.2RNN_LSTM2.pdf)  
 RNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.4_RNN_LSTM_Keras.ipynb) 
 LSTM Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.3_RNN_Imdb_review_classifier.ipynb) 
 LSTM Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
