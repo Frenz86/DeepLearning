@@ -59,6 +59,7 @@ Twitter disaster classification [![Open In Colab](https://colab.research.google.
 - extra: Synthetic Data Generator [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/00SDV_Quickstart.ipynb)
 - extra: MonteCarlo Simulation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/distribuzioniMonteCarlo2.ipynb)
 - extra: Fooocus (Generative AI Image Solution) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/fooocus_colab.ipynb)
+- extra: [Flow - Images](https://matankleiner.github.io/flowedit)
 - extra: GINNs [Geometry Informed Neural Networks](https://github.com/ml-jku/GINNs-Geometry-informed-Neural-Networks)
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
