@@ -44,6 +44,11 @@ LSTM Classification [![Open In Colab](https://colab.research.google.com/assets/c
 LSTM Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
 Twitter disaster classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.6_NLP_twitter_class.ipynb) 
 
+14. (2024/12/18)DG 3 ore: [Intro Transformers ](pdf/12.0_TRANSFORMERS.pdf) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less12/12.1EmotionPrediction_HuggingFace.ipynb) Safetensor-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.1HugginfaceTFM_onnx.ipynb)
+Summarization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.4Summarization_HuggingFace.ipynb)
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: [Cheat Sheet ML](pdf/CheatSheetsML.pdf)
