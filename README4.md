@@ -56,6 +56,8 @@ SentimentDistilbert-Onnx [![Open In Colab](https://colab.research.google.com/ass
 Albert-Datasets_push_hughub [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.7_Albert.ipynb)
 Albert-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.8_Albert2onnx.ipynb)
 
+[LLM-Cheatsheet ](pdf/LLM_cheatsheet.pdf)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: [Cheat Sheet ML](pdf/CheatSheetsML.pdf)
