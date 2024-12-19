@@ -44,10 +44,17 @@ LSTM Classification [![Open In Colab](https://colab.research.google.com/assets/c
 LSTM Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
 Twitter disaster classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.6_NLP_twitter_class.ipynb) 
 
-14. (2024/12/18)DG 3 ore: [Intro Transformers ](pdf/12.0_TRANSFORMERS.pdf) 
+14. (2024/12/18)DG 3 ore: [Intro Transformers ](pdf/12.0_TRANSFORMERS.pdf) - [HuggingFace ](pdf/HuggingFaceIntroduction.pdf) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less12/12.1EmotionPrediction_HuggingFace.ipynb) Safetensor-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.1HugginfaceTFM_onnx.ipynb)
 Summarization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.4Summarization_HuggingFace.ipynb)
 
+14. (2024/12/19)DG 3 ore: Safetensor-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.1HugginfaceTFM_onnx.ipynb)
+Summarization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.4Summarization_HuggingFace.ipynb)
+MultilabelDistilbert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.5FineTuningDistilBERT_MultiLabel_HuggingFace.ipynb)
+SentimentDistilbert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisDistilBERT_HuggingFace.ipynb)
+SentimentDistilbert-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisGradio.ipynb)
+Albert-Datasets_push_hughub [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.7_Albert.ipynb)
+Albert-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.8_Albert2onnx.ipynb)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
