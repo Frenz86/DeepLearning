@@ -48,7 +48,7 @@ Twitter disaster classification [![Open In Colab](https://colab.research.google.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less12/12.1EmotionPrediction_HuggingFace.ipynb) Safetensor-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.1HugginfaceTFM_onnx.ipynb)
 Summarization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.4Summarization_HuggingFace.ipynb)
 
-14. (2024/12/19)DG 3 ore: Safetensor-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.1HugginfaceTFM_onnx.ipynb)
+15. (2024/12/19)DG 3 ore: Safetensor-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.1HugginfaceTFM_onnx.ipynb)
 Summarization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.4Summarization_HuggingFace.ipynb)
 MultilabelDistilbert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.5FineTuningDistilBERT_MultiLabel_HuggingFace.ipynb)
 SentimentDistilbert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisDistilBERT_HuggingFace.ipynb)
@@ -69,6 +69,7 @@ Albert-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 - extra: PINN (Physics-Informed Neural Networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/PINN/PINN_physicNN.ipynb)
 - extra: DrawData [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/DrawData.ipynb)
 - extra: Synthetic Data Generator [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/00SDV_Quickstart.ipynb)
+- extra: [Synthity Library "Van Der Schaar"](https://github.com/vanderschaarlab/synthcity)
 - extra: MonteCarlo Simulation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/distribuzioniMonteCarlo2.ipynb)
 - extra: Fooocus (Generative AI Image Solution) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/extra/fooocus_colab.ipynb)
 - extra: [Flow - Images](https://matankleiner.github.io/flowedit)
