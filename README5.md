@@ -1,6 +1,6 @@
 # BIGDATA LAB - Fourth Edition - DeepLearning  2025-01-25 by Daniele Grotti
 
-https://github.com/Frenz86/DeepLearning/blob/main/README5.md
+[RepoPage](https://github.com/Frenz86/DeepLearning/blob/main/README5.md)
 
 
 1. (2025/01/27)DG 3 ore: Introduzione al DL [IntroDL](pdf/00Pres_ProfessionAI_Long.pdf)
