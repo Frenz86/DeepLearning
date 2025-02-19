@@ -20,7 +20,9 @@ IRIS to solve [![Open In Colab](https://colab.research.google.com/assets/colab-b
 
 7. (2025/02/18)DG 3 ore: [NeuralNet-Concept](pdf/06.0ResumeP1.pdf) [Intro-CNN](pdf/06.1_CNN_XO.pdf) Convolution stack Keras
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.0_CNN_Basics.ipynb) - Regularization  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.1_RegularizationL2.ipynb)
-Intro Mnist ML vs DL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.4_MNIST.ipynb) [Regulariation](pdf/07ResumeP2.pdf) [CNN](pdf/cnn.pdf) Fashion MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.0_Fashion_MNIST.ipynb) 
+Intro Mnist ML vs DL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.4_MNIST.ipynb) [Regulariation](pdf/07ResumeP2.pdf) 
+
+8. (2025/02/19)DG 3 ore: [CNN](pdf/cnn.pdf) Fashion MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.0_Fashion_MNIST.ipynb) 
 
 
 
