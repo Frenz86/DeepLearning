@@ -44,5 +44,12 @@ Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 WorldCloud [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/10.5_WordCloud.ipynb) 
 Spam-Ham [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.2_unbalanced_ham_spam.ipynb) 
 
+14. (2025/03/05)DG 3 ore: [Embeddings ](pdf/11.1NLPPART2.pdf) - [from RNN to LSTM ](pdf/11.2RNN_LSTM2.pdf)  
+RNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.4_RNN_LSTM_Keras.ipynb) 
+LSTM Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.3_RNN_Imdb_review_classifier.ipynb) 
+LSTM Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
+
+
+
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
