@@ -44,11 +44,22 @@ Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 WorldCloud [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/10.5_WordCloud.ipynb) 
 Spam-Ham [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.2_unbalanced_ham_spam.ipynb) 
 
-14. (2025/03/05)DG 3 ore: [Embeddings ](pdf/11.1NLPPART2.pdf) - [from RNN to LSTM ](pdf/11.2RNN_LSTM2.pdf)  
+14. (2025/03/10)DG 3 ore: [Embeddings ](pdf/11.1NLPPART2.pdf) - [from RNN to LSTM ](pdf/11.2RNN_LSTM2.pdf)  
 RNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.4_RNN_LSTM_Keras.ipynb) 
 LSTM Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.3_RNN_Imdb_review_classifier.ipynb) 
 LSTM Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
 
+
+15. (2025/03/11)DG 3 ore: [Intro Transformers ](pdf/12.0_TRANSFORMERS.pdf) - [HuggingFace ](pdf/HuggingFaceIntroduction.pdf) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less12/12.1EmotionPrediction_HuggingFace.ipynb) Safetensor-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.1HugginfaceTFM_onnx.ipynb)
+Summarization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.4Summarization_HuggingFace.ipynb)
+
+16. (2025/03/12)DG 3 ore: 
+MultilabelDistilbert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.5FineTuningDistilBERT_MultiLabel_HuggingFace.ipynb)
+SentimentDistilbert [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisDistilBERT_HuggingFace.ipynb)
+SentimentDistilbert-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.6SentimentAnalysisGradio.ipynb)
+Albert-Datasets_push_hughub [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.7_Albert.ipynb)
+Albert-Onnx [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less13/13.8_Albert2onnx.ipynb)
 
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
