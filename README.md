@@ -25,6 +25,7 @@ Regularization
 
 8. (2026/05/13)DG 3 ore: Intro Mnist ML vs DL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less06/06.4_MNIST.ipynb) [Regulariation](pdf/07ResumeP2.pdf) [CNN](pdf/cnn.pdf) Fashion MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.0_Fashion_MNIST.ipynb) CIFAR10 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.1_CIFAR10_BatchNorm.ipynb)
 
+ 8. (2026/05/18)DG 3 ore: DOGvsCAT1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.5_Dog_Cat_subset_part1.ipynb) DOGvsCAT2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.6_Dog_Cat_subset_part2.ipynb)
 
 **per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com** [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
