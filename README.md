@@ -36,5 +36,13 @@ VariationalAutoEnc [![Open In Colab](https://colab.research.google.com/assets/co
 AutoEncoder Anomaly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.3AUT_anomaly.ipynb) 
 DCGAN[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less09/09.4DCGAN_fashion.ipynb) 
 
+11. (2026/05/27)DG 3 ore: [Intro NLP ](pdf/10.1_NLP_PART1.pdf) Intro REGEX [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.0_Intro_re.ipynb) 
+Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.1_SpaCy.ipynb) 
+Tokeniztion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.2_Tokenization.ipynb) 
+RNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.4_RNN_LSTM_Keras.ipynb) 
+LSTM Text Generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/11.5_Text_generation_LSTM.ipynb) 
+
+
+
 **per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com** [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
