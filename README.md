@@ -11,6 +11,11 @@
 
 5. (2026/07/13)DG 4 ore: Nomalizzazione e Standardizzazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.0_Normalizzazione_standardizz.ipynb)  Intro Keras [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less04/04.1_Keras_regression_Basics.ipynb)  Giavellotto [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/04.3_Giavellotto_gittata.ipynb) 
 
+6. (2026/07/14)DG 4 ore: Boston [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/04.2_Boston_Keras.ipynb) [TheoryNN](pdf/05.0__ExplainNN.pdf) Non Linear [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.0_DL_Basics.ipynb)
+IntroANN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.1_Intro_ANN.ipynb)
+Breast Cancer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.2_Breast_Cancer.ipynb)
+IRIS to solve [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less05/05.6_IRIS2solve.ipynb)
+
 
 **per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com** -  [LinkedIn](https://www.linkedin.com/in/daniele-grotti/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
