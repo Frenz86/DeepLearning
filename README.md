@@ -31,6 +31,10 @@ DOGvsCAT1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/_Es_RE2solve.ipynb) 
 Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.1_SpaCy.ipynb) 
 Tokeniztion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.2_Tokenization.ipynb) 
+Word Cloud NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less11/10.5_WordCloud.ipynb)
+Sentiment Analysis with WordCLoud [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.8_SentimentAnalysis_ML_with_WordCloud.ipynb) 
+
+
 
 
 **per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com** -  [LinkedIn](https://www.linkedin.com/in/daniele-grotti/)
