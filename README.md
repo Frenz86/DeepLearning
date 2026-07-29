@@ -28,6 +28,7 @@ DOGvsCAT1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 
 10. (2026/07/29)DG 4 ore: [Intro NLP ](pdf/10.1_NLP_PART1.pdf) Intro REGEX [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.0_Intro_re.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/_Es_RE2solve.ipynb) 
 Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.1_SpaCy.ipynb) 
 Tokeniztion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.2_Tokenization.ipynb) 
 
