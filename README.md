@@ -22,9 +22,14 @@ IRIS to solve [![Open In Colab](https://colab.research.google.com/assets/colab-b
 8. (2026/07/27)DG 4 ore: MultiLabel Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.2_MultilabelFinale.ipynb)
 DOGvsCAT1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.5_Dog_Cat_subset_part1.ipynb) DOGvsCAT2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less07/07.6_Dog_Cat_subset_part2.ipynb) [File inference - teachable machine](https://frenzy86.s3.eu-west-2.amazonaws.com/python/run_tkinteapp.zip) 
 
-1. (2026/07/28)DG 4 ore:
+9. (2026/07/28)DG 4 ore: Transfer Learning
 [Overview CNN](pdf/08.0OverviewCNN.pdf) Transfer Learning Flowers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.1_TL_Flowers.ipynb) - Transfer Learning Tomatoes Desease
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less08/80.3_TL_Tomatoes.ipynb)
+
+
+10. (2026/07/29)DG 4 ore: [Intro NLP ](pdf/10.1_NLP_PART1.pdf) Intro REGEX [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.0_Intro_re.ipynb) 
+Intro spaCy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.1_SpaCy.ipynb) 
+Tokeniztion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/DeepLearning/blob/main/python/Less10/10.2_Tokenization.ipynb) 
 
 
 **per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com** -  [LinkedIn](https://www.linkedin.com/in/daniele-grotti/)
